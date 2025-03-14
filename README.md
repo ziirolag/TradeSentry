@@ -1,6 +1,6 @@
 # TradeSentry Bot
 
-**TradeSentry Bot** is a Discord bot that provides real-time stock market signals, portfolio tracking, and technical analysis. It uses [yfinance](https://pypi.org/project/yfinance/) for market data, [mplfinance](https://github.com/matplotlib/mplfinance) for charting, and the Discord API for interactive commands.
+**TradeSentry Bot** is a Discord bot that provides real-time stock/some mainstream crypto market signals, portfolio tracking, and technical analysis. It uses [yfinance](https://pypi.org/project/yfinance/) for market data, [mplfinance](https://github.com/matplotlib/mplfinance) for charting, and the Discord API for interactive commands.
 
 ## Features
 
