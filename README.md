@@ -28,15 +28,17 @@
 2. **Create a virtual environment:**
 
    python -m venv venv
-   source venv/bin/activate   # On Windows: venv\Scripts\activate
+   source venv/bin/activate
+
+   On Windows: venv\Scripts\activate
 
 
-3. **Install Dependencies:**
+4. **Install Dependencies:**
 
    pip install -r Requirements.txt
 
 
-4. **Set up environment variables:**
+5. **Set up environment variables:**
 
    cp .env.example .env
 
