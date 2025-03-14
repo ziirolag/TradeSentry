@@ -1,0 +1,9 @@
+# Environment files
+.env
+
+# User data file
+user_positions.json
+
+# Virtual environment directory
+venv/stock_signal_bot_BACKUP.py 
+.env_BACKUP 

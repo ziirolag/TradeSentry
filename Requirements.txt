@@ -1,0 +1,10 @@
+discord.py
+yfinance
+mplfinance
+pandas
+numpy
+python-dotenv
+ta
+pytz
+requests
+beautifulsoup4
