@@ -48,7 +48,7 @@ Open .env and fill in your DISCORD_TOKEN, DISCORD_CHANNEL_ID, and DISCORD_GUILD_
 **Running the Bot:**
 
 Start the bot with:
-python TradeSentry-Bot.py
+python stock_signal_bot.py
 
 ## Inviting the Bot to Your Server
 
